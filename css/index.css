@@ -411,6 +411,10 @@ header {
   opacity: 0.75;
 }
 
+.simon {
+  height: auto;
+}
+
 /* footer */
 
 .footer {
