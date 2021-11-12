@@ -295,6 +295,7 @@ header {
   background-size: cover;
   color: var(--clr-lite);
   text-align: center;
+  display: none;
 }
 
 .section__title--services {
